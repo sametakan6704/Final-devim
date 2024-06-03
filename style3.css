@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(arka\ plan.webp);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+
+.Github-button{
+    background-color: #333;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-flex;
+    align-items: center;
+    transition: background-color 0.3s ease;
+
+}
+
+.Github-button:hover{
+    background-color: #000000;
+}
+
+.Github-button i{
+    font-size: 50px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.Instagram-button{
+    background-color: #ac2bac;
+    color: #000000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: nome;
+    font-size: 20px;
+    display: inline-flex;
+    transition: background-color 0.3 ease;
+    display: inline-block;
+
+
+}
+
+.Instagram-button:hover{
+    background-color: #000000;
+
+}
+.Instagram.button i{
+    font-size: 25px;
+    margin-right: 10px;
+    display:inline-flex;
+}
+{
+<link rel="stylesheet" href="Instagram_logo_2022.svg.webp">
+<link rel="stylesheet" href="GitHub-logo.png">
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(arka\ plan.webp);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.container tr {
+    color: black;
+    font-size: 25px;
+    height: 7vh;
+}

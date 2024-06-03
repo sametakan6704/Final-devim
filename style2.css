@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(arka\ plan.webp);
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.container ul{
+    color: black;
+    display: inline-block;
+    font-family: roboto;
+    margin-top: 150px;
+    font-size: 25px;
+}
+
+.navbar.sametakan{
+    margin-top: 50px;
+
+
+}
